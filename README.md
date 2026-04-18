@@ -27,13 +27,6 @@ Sou **Doutor em Engenharia Elétrica (Computação Aplicada)** e apaixonado por 
 
 ---
 
-### 📊 Projetos em Destaque
-- **[landpagesOFF](https://github.com/paulosrl/landpagesOFF)**: Gerador de landing pages 100% offline e autocontidas.
-- **Cifra**: Ferramenta de BI para análise de quebras de sigilo bancário.
-- **VisualRIF**: Analisador de Relatórios de Inteligência Financeira.
-
----
-
 ### 📫 Como me encontrar
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](http://www.paulolima.net.br)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulo-sergio-rodrigues-lima-3b82f6/)
